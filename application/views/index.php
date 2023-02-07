@@ -8,13 +8,13 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <title>Surety Insurance Bootstrap Template</title>
-    <link href="<?php echo base_url()?>assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/css/fontello.css">
-    <link href="<?php echo base_url()?>assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="<?php echo base_url()?>assets/css/owl.carousel.css" rel="stylesheet">
-    <link href="<?php echo base_url()?>assets/css/owl.theme.default.css" rel="stylesheet">
-    <link href="<?php echo base_url()?>assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/fontello.css">
+    <link href="<?php echo base_url() ?>assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/owl.theme.default.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -23,7 +23,7 @@
             <div class="row">
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
                     <div class="logo">
-                        <a href="index.html"><img src="<?php echo base_url()?>assets/images/logo.png" alt=""> </a>
+                        <a href="index.html"><img src="<?php echo base_url() ?>assets/images/logo.png" alt=""> </a>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-10 col-sm-12 col-xs-12">
@@ -31,15 +31,15 @@
                         <div id="navigation">
                             <ul>
                                 <li class="active"><a href="index.html">Home</a></li>
-                                
+
                                 <li class="has-sub"><a href="#">Blog</a>
                                     <ul>
                                         <li><a href="blog-default.html">Blog Default</a></li>
-                                                                           
+
                                         <li><a href="blog-single.html">Blog Single</a></li>
                                     </ul>
                                 </li>
-                                
+
                             </ul>
                         </div>
                     </div>
@@ -55,13 +55,13 @@
             </div>
         </div>
     </div>
-    <div class="hero-section" style="background: url(<?php echo base_url()?>assets/images/hero_img.jpg) no-repeat;">
+    <div class="hero-section" style="background: url(<?php echo base_url() ?>assets/images/hero_img.jpg) no-repeat;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
                     <div class="hero-caption">
-                        <h1 class="hero-title">Get a Quick, Personalized 
-Insurance Quote Today.</h1>
+                        <h1 class="hero-title">Get a Quick, Personalized
+                            Insurance Quote Today.</h1>
                         <p class="hero-text">Up to 50% discount on Premium | Get instant policy in your eamil.</p>
                         <form>
                             <div class="row">
@@ -69,21 +69,21 @@ Insurance Quote Today.</h1>
                                     <div class="form-group">
                                         <label class="control-label sr-only  required" for="select"></label>
                                         <div class="select">
-                                        <select id="select" name="select" class="  form-control">
-                                            <option value="">Select Coverage Type</option>
-                                            <option value="">Home Insurance</option>
-                                            <option value="">Business Insurance</option>
-                                            <option value="">Car Insurance</option>
-                                        </select>
-                                    </div>
+                                            <select id="select" name="select" class="  form-control">
+                                                <option value="">Select Coverage Type</option>
+                                                <option value="">Home Insurance</option>
+                                                <option value="">Business Insurance</option>
+                                                <option value="">Car Insurance</option>
+                                            </select>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 nopr nopl">
                                     <div class="form-group">
                                         <label class="control-label sr-only" for="name"> </label>
-                                     
+
                                         <input id="name" type="text" placeholder="Your Zip Code" class="form-control" required>
-                                  
+
                                     </div>
                                 </div>
                                 <div class="col-lg-5 col-md-5 col-sm-4 col-xs-12">
@@ -188,33 +188,37 @@ Insurance Quote Today.</h1>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="service-block">
-                    <div class="service-icon"><img src="<?php echo base_url()?>assets/images/home.svg" alt=""></div>
+                    <div class="service-icon"><img src="<?php echo base_url() ?>assets/images/home.svg" alt=""></div>
                     <div class="service-content">
-                        <h4><a href="#" class="service-title">Home Insurance</a></h4></div>
+                        <h4><a href="#" class="service-title">Home Insurance</a></h4>
+                    </div>
                 </div>
                 <div class="service-quote"><a href="#" class="text-white">Get A Quote</a></div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="service-block">
-                    <div class="service-icon"><img src="<?php echo base_url()?>assets/images/car.svg" alt=""></div>
+                    <div class="service-icon"><img src="<?php echo base_url() ?>assets/images/car.svg" alt=""></div>
                     <div class="service-content">
-                        <h4><a href="#" class="service-title">Car Insurance</a></h4></div>
+                        <h4><a href="#" class="service-title">Car Insurance</a></h4>
+                    </div>
                 </div>
                 <div class="service-quote"><a href="#" class="text-white">Get A Quote</a></div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="service-block">
-                    <div class="service-icon"><img src="<?php echo base_url()?>assets/images/business.svg" alt=""></div>
+                    <div class="service-icon"><img src="<?php echo base_url() ?>assets/images/business.svg" alt=""></div>
                     <div class="service-content">
-                        <h4><a href="#" class="service-title">Business Insurance</a></h4></div>
+                        <h4><a href="#" class="service-title">Business Insurance</a></h4>
+                    </div>
                 </div>
                 <div class="service-quote"><a href="#" class="text-white">Get A Quote</a></div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="service-block">
-                    <div class="service-icon"><img src="<?php echo base_url()?>assets/images/health.svg" alt=""></div>
+                    <div class="service-icon"><img src="<?php echo base_url() ?>assets/images/health.svg" alt=""></div>
                     <div class="service-content">
-                        <h4><a href="#" class="service-title">Health Insurance</a></h4></div>
+                        <h4><a href="#" class="service-title">Health Insurance</a></h4>
+                    </div>
                 </div>
                 <div class="service-quote"><a href="#" class="text-white">Get A Quote</a></div>
             </div>
@@ -348,7 +352,7 @@ Insurance Quote Today.</h1>
             </div>
         </div>
     </div>
-    <div class="cta-wrapper" style="background: url(<?php echo base_url()?>assets/images/cta_wrapper.jpg) no-repeat;">
+    <div class="cta-wrapper" style="background: url(<?php echo base_url() ?>assets/images/cta_wrapper.jpg) no-repeat;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-offset-2 col-lg-8 col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
@@ -376,7 +380,7 @@ Insurance Quote Today.</h1>
                     <div class="post-block">
                         <div class="post-img">
                             <a href="#" class="imghover">
-                    <img src="<?php echo base_url()?>assets/images/post_small_1.jpg" alt="" class="img-responsive"></a>
+                                <img src="<?php echo base_url() ?>assets/images/post_small_1.jpg" alt="" class="img-responsive"></a>
                         </div>
                         <div class="post-content">
                             <div class="meta">
@@ -392,7 +396,7 @@ Insurance Quote Today.</h1>
                     <div class="post-block">
                         <div class="post-img">
                             <a href="#" class="imghover">
-                    <img src="<?php echo base_url()?>assets/images/post_small_2.jpg" alt="" class="img-responsive"></a>
+                                <img src="<?php echo base_url() ?>assets/images/post_small_2.jpg" alt="" class="img-responsive"></a>
                         </div>
                         <div class="post-content">
                             <div class="meta">
@@ -404,23 +408,23 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                    <div class="post-block">
-                        <div class="post-img">
-                            <a href="#" class="imghover">
-                    <img src="<?php echo base_url()?>assets/images/post_small_3.jpg" alt="" class="img-responsive"></a>
+                <div class="post-block">
+                    <div class="post-img">
+                        <a href="#" class="imghover">
+                            <img src="<?php echo base_url() ?>assets/images/post_small_3.jpg" alt="" class="img-responsive"></a>
+                    </div>
+                    <div class="post-content">
+                        <div class="meta">
+                            <span class="meta-date">08 june 2020 </span>
+                            <span>| &nbsp;</span>
+                            <span class="meta-admin">By <a href="#" class="meta-link">Admin</a></span>
                         </div>
-                        <div class="post-content">
-                            <div class="meta">
-                                <span class="meta-date">08 june 2020 </span>
-                                <span>| &nbsp;</span>
-                                <span class="meta-admin">By <a href="#" class="meta-link">Admin</a></span>
-                            </div>
-                            <h4 class="post-title "><a href="#" class="title">Reality About the Insurance</a></h4>
-                        </div>
+                        <h4 class="post-title "><a href="#" class="title">Reality About the Insurance</a></h4>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
     <div class="footer">
         <div class="container">
@@ -430,23 +434,26 @@ Insurance Quote Today.</h1>
                         <h3 class="footer-title">Contact us</h3>
                         <div class="ft-contact-info">
                             <span class="ft-contact-icon"><i class="fa fa-map-marker"></i></span>
-                            <span class="ft-contact-text">42 Himton 17th St, Ellis 3 New York, NY 10011 </span></div>
+                            <span class="ft-contact-text">42 Himton 17th St, Ellis 3 New York, NY 10011 </span>
+                        </div>
                         <div class="ft-contact-info"> <span class="ft-contact-icon"><i class="fa fa-phone"></i></span>
-                            <span class="ft-contact-text">+180-123-4567</span></div>
+                            <span class="ft-contact-text">+180-123-4567</span>
+                        </div>
                         <div class="ft-contact-info"> <span class="ft-contact-icon"><i class="fa fa-paper-plane"></i></span>
-                            <span class="ft-contact-text">info@suretyinsurance.com</span></div>
-                            <div class="social-icon mt30">
-                        <a href="#" class="btn-social-circle "><i class="fa fa-facebook"></i></a>
-                        <a href="#" class="btn-social-circle"><i class="fa fa-twitter"></i></a>
-                        <a href="#" class="btn-social-circle"><i class="fa fa-linkedin"></i></a>
-                    </div>
+                            <span class="ft-contact-text">info@suretyinsurance.com</span>
+                        </div>
+                        <div class="social-icon mt30">
+                            <a href="#" class="btn-social-circle "><i class="fa fa-facebook"></i></a>
+                            <a href="#" class="btn-social-circle"><i class="fa fa-twitter"></i></a>
+                            <a href="#" class="btn-social-circle"><i class="fa fa-linkedin"></i></a>
+                        </div>
                     </div>
                 </div>
                 <div class=" col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-3 col-xs-12">
                     <div class="footer-widget">
                         <h3 class="footer-title">Quick Links</h3>
                         <ul>
-                            <li><a href="#">Home  </a></li>
+                            <li><a href="#">Home </a></li>
                             <li><a href="#">Insurance</a></li>
                             <li><a href="#">Blog</a></li>
                             <li><a href="#">About Us</a></li>
@@ -467,14 +474,14 @@ Insurance Quote Today.</h1>
                         </ul>
                     </div>
                 </div>
-   
-   
+
+
                 <div class="col-lg-offset-1 col-lg-3 col-md-offset-1 col-md-3 col-sm-12 col-xs-12">
                     <div class="footer-widget">
-                        <h3 class="footer-title">Want to receive weekly 
-                         free advice?</h3>
+                        <h3 class="footer-title">Want to receive weekly
+                            free advice?</h3>
                         <form>
-   
+
                             <div class="form-group">
                                 <input type="text" class="form-control footer-form mb10" placeholder="Enter email id">
                                 <button type="submit" name="singlebutton" class="btn btn-default btn-xs">submit</button>
@@ -488,19 +495,20 @@ Insurance Quote Today.</h1>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                        <p></div>
+                        <p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    <script src="<?php echo base_url()?>assets/js/jquery.min.js" type="text/javascript"></script>
-    <script src="<?php echo base_url()?>assets/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="<?php echo base_url()?>assets/js/menumaker.js" type="text/javascript"></script>
-    <script type="text/javascript" src="<?php echo base_url()?>assets/js/jquery.sticky.js"></script>
-    <script type="text/javascript" src="<?php echo base_url()?>assets/js/sticky-header.js"></script>
-    <script type="text/javascript" src="<?php echo base_url()?>assets/js/owl.carousel.min.js"></script>
-    <script type="text/javascript" src="<?php echo base_url()?>assets/js/multiple-carousel.js"></script>
-   
+    <script src="<?php echo base_url() ?>assets/js/jquery.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url() ?>assets/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url() ?>assets/js/menumaker.js" type="text/javascript"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/jquery.sticky.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/sticky-header.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/multiple-carousel.js"></script>
+
 </body>
 
 </html>
