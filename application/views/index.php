@@ -479,8 +479,6 @@ Insurance Quote Today.</h1>
                                 <input type="text" class="form-control footer-form mb10" placeholder="Enter email id">
                                 <button type="submit" name="singlebutton" class="btn btn-default btn-xs">submit</button>
                             </div>
-   
-                            
                         </form>
                     </div>
                 </div>
