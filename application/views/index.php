@@ -5,32 +5,19 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="keywords" content="">
     <title>Surety Insurance Bootstrap Template</title>
-    <!-- Bootstrap -->
     <link href="<?php echo base_url()?>assets/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
-    <!-- FontAwesome CSS -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/css/fontello.css">
     <link href="<?php echo base_url()?>assets/css/font-awesome.min.css" rel="stylesheet">
-    <!-- owl-carousel -->
     <link href="<?php echo base_url()?>assets/css/owl.carousel.css" rel="stylesheet">
     <link href="<?php echo base_url()?>assets/css/owl.theme.default.css" rel="stylesheet">
-    <!-- Style CSS -->
     <link href="<?php echo base_url()?>assets/css/style.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <body>
-    <!-- header-section-->
     <div class="header-wrapper">
         <div class="container-fluid">
             <div class="row">
@@ -40,7 +27,6 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-10 col-sm-12 col-xs-12">
-                    <!-- navigations-->
                     <div class="navigation">
                         <div id="navigation">
                             <ul>
@@ -57,7 +43,6 @@
                             </ul>
                         </div>
                     </div>
-                    <!-- /.navigations-->
                 </div>
                 <div class="col-lg-3 hidden-md hidden-sm hidden-xs ">
                     <div class="header-info">
@@ -70,8 +55,6 @@
             </div>
         </div>
     </div>
-    <!-- /. header-section-->
-    <!-- hero-section -->
     <div class="hero-section" style="background: url(<?php echo base_url()?>assets/images/hero_img.jpg) no-repeat;">
         <div class="container">
             <div class="row">
@@ -113,8 +96,6 @@ Insurance Quote Today.</h1>
             </div>
         </div>
     </div>
-    <!-- /.hero-section -->
-    <!-- feature-section -->
     <div class="space-medium">
         <div class="container">
             <div class="row">
@@ -126,7 +107,6 @@ Insurance Quote Today.</h1>
                 </div>
             </div>
             <div class="row">
-                <!-- blurb-feature -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="feature-blurb-block">
                         <div class="feature-blurb-head">
@@ -138,8 +118,6 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blurb-feature -->
-                <!-- blurb-feature -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="feature-blurb-block">
                         <div class="feature-blurb-head">
@@ -151,8 +129,6 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blurb-feature -->
-                <!-- blurb-feature -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="feature-blurb-block">
                         <div class="feature-blurb-head">
@@ -164,8 +140,6 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blurb-feature -->
-                <!-- blurb-feature -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="feature-blurb-block">
                         <div class="feature-blurb-head">
@@ -177,8 +151,6 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blurb-feature -->
-                <!-- blurb-feature -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="feature-blurb-block">
                         <div class="feature-blurb-head">
@@ -190,8 +162,6 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blurb-feature -->
-                <!-- blurb-feature -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="feature-blurb-block">
                         <div class="feature-blurb-head">
@@ -203,25 +173,19 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blurb-feature -->
             </div>
         </div>
     </div>
-    <!-- /.feature-section -->
-    <!-- service-section -->
     <div class="space-medium bg-light">
         <div class="container">
             <div class="row">
-                <!-- section-title -->
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
                         <h2>Insurance products</h2>
                         <p>So, choose your insurance you want to</p>
                     </div>
                 </div>
-                <!-- /.section-title -->
             </div>
-            <!-- service-block -->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="service-block">
                     <div class="service-icon"><img src="<?php echo base_url()?>assets/images/home.svg" alt=""></div>
@@ -230,8 +194,6 @@ Insurance Quote Today.</h1>
                 </div>
                 <div class="service-quote"><a href="#" class="text-white">Get A Quote</a></div>
             </div>
-            <!-- /.service-block -->
-            <!-- service-block -->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="service-block">
                     <div class="service-icon"><img src="<?php echo base_url()?>assets/images/car.svg" alt=""></div>
@@ -240,8 +202,6 @@ Insurance Quote Today.</h1>
                 </div>
                 <div class="service-quote"><a href="#" class="text-white">Get A Quote</a></div>
             </div>
-            <!-- /.service-block -->
-            <!-- service-block -->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="service-block">
                     <div class="service-icon"><img src="<?php echo base_url()?>assets/images/business.svg" alt=""></div>
@@ -250,8 +210,6 @@ Insurance Quote Today.</h1>
                 </div>
                 <div class="service-quote"><a href="#" class="text-white">Get A Quote</a></div>
             </div>
-            <!-- /.service-block -->
-            <!-- service-block -->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                 <div class="service-block">
                     <div class="service-icon"><img src="<?php echo base_url()?>assets/images/health.svg" alt=""></div>
@@ -260,27 +218,21 @@ Insurance Quote Today.</h1>
                 </div>
                 <div class="service-quote"><a href="#" class="text-white">Get A Quote</a></div>
             </div>
-            <!-- /.service-block -->
         </div>
     </div>
-    <!-- /.service-section -->
-    <!-- testimonial-section -->
     <div class="space-medium">
         <div class="container">
             <div class="row">
-                <!-- section-title -->
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
                         <h2>Our clients rate us 9.3/10 for satisfaction</h2>
                         <p>And they are very happy & satisfied</p>
                     </div>
                 </div>
-                <!-- /.section-title -->
             </div>
             <div class="row">
                 <div class="testimonial-carousel">
                     <div class="owl-testimonial owl-theme owl-carousel">
-                        <!-- testimonial-item -->
                         <div class="item">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                 <div class="testimonial-block">
@@ -303,8 +255,6 @@ Insurance Quote Today.</h1>
                                 </div>
                             </div>
                         </div>
-                        <!-- /.testimonial-item -->
-                        <!-- testimonial-item -->
                         <div class="item">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                 <div class="testimonial-block">
@@ -327,8 +277,6 @@ Insurance Quote Today.</h1>
                                 </div>
                             </div>
                         </div>
-                        <!-- /.testimonial-item -->
-                        <!-- testimonial-item -->
                         <div class="item">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                 <div class="testimonial-block">
@@ -351,8 +299,6 @@ Insurance Quote Today.</h1>
                                 </div>
                             </div>
                         </div>
-                        <!-- /.testimonial-item -->
-                        <!-- testimonial-item -->
                         <div class="item">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                 <div class="testimonial-block">
@@ -375,8 +321,6 @@ Insurance Quote Today.</h1>
                                 </div>
                             </div>
                         </div>
-                        <!-- /.testimonial-item -->
-                        <!-- testimonial-item -->
                         <div class="item">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                 <div class="testimonial-block">
@@ -399,14 +343,11 @@ Insurance Quote Today.</h1>
                                 </div>
                             </div>
                         </div>
-                        <!-- /.testimonial-item -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- /.testimonial-section -->
-    <!-- cta-section -->
     <div class="cta-wrapper" style="background: url(<?php echo base_url()?>assets/images/cta_wrapper.jpg) no-repeat;">
         <div class="container">
             <div class="row">
@@ -420,12 +361,9 @@ Insurance Quote Today.</h1>
             </div>
         </div>
     </div>
-    <!-- /.cta-section -->
-    <!-- blog -->
     <div class="space-medium">
         <div class="container">
             <div class="row">
-                <!-- section-title-1 -->
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="section-title">
                         <h2>Latest news updates</h2>
@@ -433,16 +371,13 @@ Insurance Quote Today.</h1>
                     </div>
                 </div>
             </div>
-            <!-- /.section-title-1 -->
             <div class="row">
-                <!-- blog-post -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center">
                     <div class="post-block">
                         <div class="post-img">
                             <a href="#" class="imghover">
                     <img src="<?php echo base_url()?>assets/images/post_small_1.jpg" alt="" class="img-responsive"></a>
                         </div>
-                        <!-- post block -->
                         <div class="post-content">
                             <div class="meta">
                                 <span class="meta-date">10 june 2020 </span>
@@ -453,15 +388,12 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blog-post -->
-                <!-- blog-post -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center">
                     <div class="post-block">
                         <div class="post-img">
                             <a href="#" class="imghover">
                     <img src="<?php echo base_url()?>assets/images/post_small_2.jpg" alt="" class="img-responsive"></a>
                         </div>
-                        <!-- post block -->
                         <div class="post-content">
                             <div class="meta">
                                 <span class="meta-date">09 june 2020 </span>
@@ -472,15 +404,11 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blog-post -->
-                <!-- blog-post -->
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center">
                     <div class="post-block">
                         <div class="post-img">
                             <a href="#" class="imghover">
                     <img src="<?php echo base_url()?>assets/images/post_small_3.jpg" alt="" class="img-responsive"></a>
                         </div>
-                        <!-- post block -->
                         <div class="post-content">
                             <div class="meta">
                                 <span class="meta-date">08 june 2020 </span>
@@ -491,16 +419,12 @@ Insurance Quote Today.</h1>
                         </div>
                     </div>
                 </div>
-                <!-- /.blog-post -->
             </div>
         </div>
     </div>
-    <!-- /.blog -->
-    <!-- footer -->
     <div class="footer">
         <div class="container">
             <div class="row">
-                <!-- footer-contact -->
                 <div class=" col-lg-3 col-md-3 col-sm-4 col-xs-12">
                     <div class="footer-widget">
                         <h3 class="footer-title">Contact us</h3>
@@ -518,8 +442,6 @@ Insurance Quote Today.</h1>
                     </div>
                     </div>
                 </div>
-                <!-- /.footer-contact -->
-                <!-- footer-quick-links -->
                 <div class=" col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-3 col-xs-12">
                     <div class="footer-widget">
                         <h3 class="footer-title">Quick Links</h3>
@@ -532,8 +454,6 @@ Insurance Quote Today.</h1>
                         </ul>
                     </div>
                 </div>
-                <!-- /.footer-quick-links  -->
-                <!-- footer-quick-links -->
                 <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
                     <div class="footer-widget">
                         <h3 class="footer-title">Insurance</h3>
