@@ -547,42 +547,34 @@ Insurance Quote Today.</h1>
                         </ul>
                     </div>
                 </div>
-                <!-- /.footer-quick-links  -->
-                <!-- newsletter -->
+   
+   
                 <div class="col-lg-offset-1 col-lg-3 col-md-offset-1 col-md-3 col-sm-12 col-xs-12">
                     <div class="footer-widget">
                         <h3 class="footer-title">Want to receive weekly 
                          free advice?</h3>
                         <form>
-                            <!-- input-group -->
+   
                             <div class="form-group">
                                 <input type="text" class="form-control footer-form mb10" placeholder="Enter email id">
                                 <button type="submit" name="singlebutton" class="btn btn-default btn-xs">submit</button>
                             </div>
-                            <!-- /.input-group -->
+   
                         </form>
                     </div>
                 </div>
-                <!-- /.newsletter -->
             </div>
-            <!-- tiny-footer -->
         </div>
         <div class="tiny-footer">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                        <p>Copyright © All Rights Reserved 2020 Template Design by
-                            <a href="https://easetemplate.com/" target="_blank" class="copyrightlink">EaseTemplate</a></p>
-                    </div>
+                        <p></div>
                 </div>
-                <!-- /. tiny-footer -->
             </div>
         </div>
     </div>
-    <!-- /.footer -->
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="<?php echo base_url()?>assets/js/jquery.min.js" type="text/javascript"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="<?php echo base_url()?>assets/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="<?php echo base_url()?>assets/js/menumaker.js" type="text/javascript"></script>
     <script type="text/javascript" src="<?php echo base_url()?>assets/js/jquery.sticky.js"></script>
