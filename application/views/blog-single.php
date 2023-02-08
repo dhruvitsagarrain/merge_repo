@@ -10,16 +10,16 @@
     <meta name="keywords" content="">
     <title>Surety Insurance Bootstrap Template - Blog Single Page </title>
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/bootstrap.min.css" rel="stylesheet">
     <!-- Style CSS -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/style.css" rel="stylesheet">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
     <!-- FontAwesome CSS -->
-    <link rel="stylesheet" type="text/css" href="css/fontello.css">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/owl.carousel.css" rel="stylesheet">
-    <link href="css/owl.theme.default.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets//fontello.css">
+    <link href="<?php echo base_url() ?>assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/css/owl.theme.default.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -35,7 +35,7 @@
             <div class="row">
                 <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
                     <div class="logo">
-                        <a href="index.html"><img src="./images/logo.png" alt=""> </a>
+                        <a href="index.html"><img src="<?php echo base_url() ?>assets/images/logo.png" alt=""> </a>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-10 col-sm-12 col-xs-12">
@@ -106,7 +106,7 @@
                             <div class="post-holder">
                                 <div class="post-img">
                                     <a href="#" class="imghover">
-                               <img src="./images/post_big_1.jpg" alt="" class="img-responsive"></a>
+                               <img src="<?php echo base_url() ?>assets/images/post_big_1.jpg" alt="" class="img-responsive"></a>
                                 </div>
                                 <!-- post block -->
                                 <div class="post-content">
@@ -120,7 +120,7 @@
                                     <p>Curabitur hendrerit fringilla eni accumsa turpis aliqua fringilla nulla hendrerit leo eget etios lorem ipsum suscipit rhoncus sed eros ipsum consequat ac orci ac semper cras magna viverra dictum laoreet act tincidunt accumsan turpis aliquam auctor justo.</p>
                                     <p>Duis non quam sagittis ultricies sem vitae luctus sems in bibendum pharetra felis act tincidunt lorem ipsum lacinia uctus sem in quis sed nec felis act.</p>
                                 <figure class="alignright">
-                                        <img src="./images/post_img_caption.jpg" alt="" >
+                                        <img src="<?php echo base_url() ?>assets/images/post_img_caption.jpg" alt="" >
                                         <figcaption class="post-img-caption"><a href="#" class="text-white">Caption Image</a></figcaption></figure>
                                   
                                     <h4>Dictum Nam Luctus Venenatis Mauris Orci</h4>
@@ -537,14 +537,14 @@ Insurance</a></h4>
     </div>
     <!-- /.footer -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url() ?>assets/js/jquery.min.js" type="text/javascript"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="js/menumaker.js" type="text/javascript"></script>
-    <script type="text/javascript" src="js/jquery.sticky.js"></script>
-    <script type="text/javascript" src="js/sticky-header.js"></script>
-    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-    <script type="text/javascript" src="js/multiple-carousel.js"></script>
+    <script src="<?php echo base_url() ?>assets/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="<?php echo base_url() ?>assets/js/menumaker.js" type="text/javascript"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/jquery.sticky.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/sticky-header.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/multiple-carousel.js"></script>
 </body>
 
 </html>

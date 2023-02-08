@@ -34,9 +34,9 @@
 
                                 <li class="has-sub"><a href="#">Blog</a>
                                     <ul>
-                                        <li><a href="blog-default.html">Blog Default</a></li>
+                                        <li><a href="blog-default">Blog Default</a></li>
 
-                                        <li><a href="blog-single.html">Blog Single</a></li>
+                                        <li><a href="blog-single">Blog Single</a></li>
                                     </ul>
                                 </li>
 
@@ -55,14 +55,14 @@
             </div>
         </div>
     </div>
-    <div class="hero-section" style="background: url(<?php echo base_url() ?>assets/images/hero_img.jpg) no-repeat;">
+    <div class="hero-section" style="background: url(<?php echo base_url() ?>assets/images/pageheader.jpg) no-repeat;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
                     <div class="hero-caption">
                         <h1 class="hero-title">Get a Quick, Personalized
                             Insurance Quote Today.</h1>
-                        <p class="hero-text">Up to 50% discount on Premium | Get instant policy in your eamil.</p>
+                        <p class="hero-text">Up to 50% discount on Premium | Get instant policy in your email.</p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 nopr">
@@ -74,6 +74,7 @@
                                                 <option value="">Home Insurance</option>
                                                 <option value="">Business Insurance</option>
                                                 <option value="">Car Insurance</option>
+                                                
                                             </select>
                                         </div>
                                     </div>
